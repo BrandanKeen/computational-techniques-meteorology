@@ -6,6 +6,7 @@ Each assignment folder includes:
 - A Jupyter Notebook (`.ipynb`)
 - Supporting plots and figures (`.png`)
 - A short `README.md` describing the assignment and methods used
+  
 
 ## Assignments
 
@@ -15,6 +16,7 @@ Each assignment folder includes:
 - [Assignment 07](assignment07) – Atmospheric Sounding Visualization with Skew-T
 - [Assignment 08](assignment08) – Visualization of GOES-16 RGB, 300K Isentropic Fields, and Gridded MSLP from Surface Data
 - [Assignment 09](assignment09) – Synoptic-scale analysis using 300 hPa wind fields and 850–1000 hPa thickness
+  
 
 ## Python Libraries Used
 
@@ -32,6 +34,7 @@ The following libraries were used throughout this coursework portfolio:
 - `datetime` – Handling time formats and time series
 - `cftime` – Support for non-standard calendar time in climate datasets
 - `mpl_toolkits` – 3D and advanced plot utilities (e.g., inset axes, specialized map layouts)
+  
 
 - ## File Formats Used
 
