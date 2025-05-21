@@ -32,3 +32,23 @@ The following libraries were used throughout this coursework portfolio:
 - `datetime` – Handling time formats and time series
 - `cftime` – Support for non-standard calendar time in climate datasets
 - `mpl_toolkits` – 3D and advanced plot utilities (e.g., inset axes, specialized map layouts)
+
+- ## File Formats Used
+
+The following file formats were used for data input, processing, and analysis throughout this coursework:
+
+- **`.csv` – Comma-Separated Values**  
+  Used for tabular meteorological and observational data.
+
+- **`.nc` – NetCDF (Network Common Data Form)**  
+  Used for multidimensional scientific datasets, such as gridded model output or satellite observations.
+
+- **`.txt` – Plain Text File**  
+  Used for raw atmospheric sounding data (e.g., from the Wyoming upper-air archive).
+
+- **`.xml` – Extensible Markup Language**  
+  Accessed indirectly via THREDDS catalogs when downloading remote datasets.
+
+- **`.zip` – ZIP Archive**  
+  Used to bundle and extract shapefiles and other related geospatial data files.
+
