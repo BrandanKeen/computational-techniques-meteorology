@@ -36,7 +36,7 @@ The following libraries were used throughout this coursework portfolio:
 - `mpl_toolkits` – 3D and advanced plot utilities (e.g., inset axes, specialized map layouts)
   
 
-- ## File Formats Used
+## File Formats Used
 
 The following file formats were used for data input, processing, and analysis throughout this coursework:
 
@@ -44,7 +44,7 @@ The following file formats were used for data input, processing, and analysis th
   Used for tabular meteorological and observational data.
 
 - **`.nc` – NetCDF (Network Common Data Form)**  
-  Used for multidimensional scientific datasets, such as gridded model output or satellite observations.
+  Used for multidimensional scientific datasets, such as gridded model output and satellite data.
 
 - **`.txt` – Plain Text File**  
   Used for raw atmospheric sounding data (e.g., from the Wyoming upper-air archive).
