@@ -21,32 +21,14 @@ Each assignment folder includes:
 The following libraries were used throughout this coursework portfolio:
 
 - `numpy` – Numerical array operations
-- `pandas` – Tabular data manipulation and time series
+- `pandas` – Data manipulation and time series handling
 - `matplotlib` – Plotting and figure generation
 - `cartopy` – Geospatial mapping and projections
-- `geopandas` – Shapefile and vector data handling
+- `geopandas` – Reading and analyzing shapefiles and geospatial vector data
 - `xarray` – Multidimensional gridded data (e.g., NetCDF)
-- `scipy` – Scientific computing (e.g., interpolation, stats)
-- `metpy` – Meteorological calculations and Skew-T plotting
-- `siphon` – Accessing meteorological data from remote servers
+- `scipy` – Scientific computing (e.g., interpolation, filtering, stats)
+- `metpy` – Meteorological calculations, unit handling, Skew-T diagrams, and hodographs
+- `siphon` – Accessing meteorological data from remote servers (e.g., THREDDS, Wyoming Soundings)
 - `datetime` – Handling time formats and time series
 - `cftime` – Support for non-standard calendar time in climate datasets
-- `mpl_toolkits` – 3D and advanced plot utilities (`matplotlib` extension)
-
-- ## 📦 Python Libraries Used
-
-The following Python libraries were used throughout this computational meteorology coursework portfolio:
-
-- **NumPy** – Numerical array operations and scientific computing
-- **Pandas** – Data manipulation, analysis, and time series handling
-- **Matplotlib** – Plotting and figure generation
-- **CartoPy** – Geospatial mapping, projections, and cartographic features
-- **GeoPandas** – Reading and analyzing shapefiles and geospatial vector data
-- **XArray** – Working with labeled, multi-dimensional gridded datasets (e.g., NetCDF)
-- **SciPy** – Scientific utilities such as interpolation and filtering
-- **MetPy** – Meteorological calculations, unit handling, Skew-T diagrams, and hodographs
-- **Siphon** – Downloading meteorological datasets from online sources (e.g., THREDDS, Wyoming Soundings)
-- **Datetime** – Working with standard Python date and time formats
-- **cftime** – Supporting non-standard calendar times (common in climate datasets)
-- **mpl_toolkits** – Advanced plotting utilities (e.g., inset axes, specialized map layouts)
-
+- `mpl_toolkits` – 3D and advanced plot utilities (e.g., inset axes, specialized map layouts)
