@@ -1,4 +1,4 @@
-# Assignment 08 – Isentropic and Synoptic Analysis of a Cyclone Event
+# Assignment 08 – Visualization of GOES-16 RGB, 300K Isentropic Fields, and Gridded MSLP from Surface Data
 
 This analysis includes:
 - GOES-16 RGB airmass imagery with 300K isentropic pressure and wind overlays
