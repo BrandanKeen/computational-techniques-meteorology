@@ -13,5 +13,4 @@ Each assignment folder includes:
 - [Assignment 05](assignment05) – SST Anomalies and Topographic Visualization
 - [Assignment 06](assignment06) – Climatological Comparison of U.S. Cities (2022 vs. 1991–2020)
 - [Assignment 07](assignment07) – Atmospheric Sounding Visualization with Skew-T
-- [Assignment 08](assignment08) – Visualization of GOES-16 RGB with 300K Isentropic Analysis and Gridded MSLP Analysis from Surface Station
-                                  Observations
+- [Assignment 08](assignment08) – Visualization of GOES-16 RGB, 300K Isentropic Fields, and Gridded MSLP from Surface Data
