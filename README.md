@@ -12,3 +12,4 @@ Each assignment folder includes:
 - [Assignment 04](assignment04) – Time Series and Bar Chart Visualization
 - [Assignment 05](assignment05) – SST Anomalies and Topographic Visualization
 - [Assignment 06](assignment06) – Climatological Comparison of U.S. Cities (2022 vs. 1991–2020)
+- [Assignment 07](assignment07) – Atmospheric Sounding Visualization with Skew-T
