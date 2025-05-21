@@ -15,3 +15,20 @@ Each assignment folder includes:
 - [Assignment 07](assignment07) – Atmospheric Sounding Visualization with Skew-T
 - [Assignment 08](assignment08) – Visualization of GOES-16 RGB, 300K Isentropic Fields, and Gridded MSLP from Surface Data
 - [Assignment 09](assignment09) – Synoptic-scale analysis using 300 hPa wind fields and 850–1000 hPa thickness
+
+## Python Libraries Used
+
+The following libraries were used throughout this coursework portfolio:
+
+- `numpy` – Numerical array operations
+- `pandas` – Tabular data manipulation and time series
+- `matplotlib` – Plotting and figure generation
+- `cartopy` – Geospatial mapping and projections
+- `geopandas` – Shapefile and vector data handling
+- `xarray` – Multidimensional gridded data (e.g., NetCDF)
+- `scipy` – Scientific computing (e.g., interpolation, stats)
+- `metpy` – Meteorological calculations and Skew-T plotting
+- `siphon` – Accessing meteorological data from remote servers
+- `datetime` – Handling time formats and time series
+- `cftime` – Support for non-standard calendar time in climate datasets
+- `mpl_toolkits` – 3D and advanced plot utilities (`matplotlib` extension)
