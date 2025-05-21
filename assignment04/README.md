@@ -1,4 +1,4 @@
-# Assignment 04 – Time Series & Population Visualization
+# Assignment 04 – Time Series & Bar Chart Visualization
 
 This assignment focuses on time series and comparative bar chart visualization using Python and matplotlib. The dataset includes:
 
