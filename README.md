@@ -14,4 +14,4 @@ Each assignment folder includes:
 - [Assignment 06](assignment06) – Climatological Comparison of U.S. Cities (2022 vs. 1991–2020)
 - [Assignment 07](assignment07) – Atmospheric Sounding Visualization with Skew-T
 - [Assignment 08](assignment08) – Visualization of GOES-16 RGB, 300K Isentropic Fields, and Gridded MSLP from Surface Data
-- [Assignment 09](assignment09) – Synoptic-scale analysis using 300 hPa wind fields to examine jet streaks and 850–1000 hPa thickness
+- [Assignment 09](assignment09) – Synoptic-scale analysis using 300 hPa wind fields and 850–1000 hPa thickness
