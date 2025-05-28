@@ -5,6 +5,10 @@ This analysis includes:
 - A full-CONUS map of mean sea-level pressure (MSLP) based on surface station observations
 - A high-resolution, zoomed-in MSLP analysis of Hurricane Helene
 
+![GOES-16 RGB with 300K Isentropic Surface](CONUS_east_300K_RGB_Isentropic_Surface_20241120_06.png)
+![CONUS Surface Pressure – 2024-09-27 03Z](MSLP_Obs_2024_09_27_03.png)
+![Hurricane Helene – MSLP Contours](Hurricane_Helene_MSLP_Obs_2024_09_27_03.png)
+
 ## Included Files
 - `assignment8_Keen.ipynb`: Jupyter Notebook with Python code for data processing and plotting
 - `CONUS_east_300K_RGB_Isentropic_Surface_20241120_06.png`: GOES-16 airmass RGB with isentropic contours and wind barbs at 300K
