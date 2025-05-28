@@ -2,6 +2,10 @@
 
 This assignment visualizes 2022 daily maximum temperature and precipitation accumulation for three major U.S. cities, compared to the 1991–2020 climatological baseline.
 
+![San_Francisco](San_Francisco_max_temp_precip_accum.png)
+![New_York_City](New_York_City_max_temp_precip_accum.png)
+![Chicago](Chicago_max_temp_precip_accum.png)
+
 ## Included Files
 - `assignment6_Keen.ipynb`: Jupyter Notebook performing data cleaning, processing, and visualization
 - `San Francisco_max_temp_precip_accum.png`
