@@ -2,6 +2,10 @@
 
 Synoptic-scale analysis using 300 hPa wind fields to examine jet streaks and 850–1000 hPa thickness with geopotential heights to assess baroclinicity and thermal structure.
 
+![300 hPa Analysis – Heights, Isotachs, Wind Barbs](Question1_Keen.png)
+![850–1000 hPa Thickness – Geopotential Heights](Question2_Keen.png)
+
+
 ## Included Files
 - `assignment09_Keen.ipynb`: Jupyter Notebook containing the data processing and plotting code
 - `Question1_Keen.png`: 300 hPa analysis including heights, isotachs, and wind barbs
