@@ -2,6 +2,8 @@
 
 This assignment processes a raw radiosonde observation from the Springfield, MO (KSGF) station and generates a Skew-T log-p diagram for 12Z on June 12, 2004. The output includes parcel diagnostics such as LCL, LFC, EL, CAPE, and CIN.
 
+![SGF Sounding – 2004-06-12 12Z](SGF_20040612_12.png)
+
 ## Included Files
 - `assignment7_Keen.ipynb`: Jupyter Notebook for processing and plotting the Skew-T diagram
 - `SGF_20040612_12.txt`: Raw sounding data from Wyoming Weather Archive
